@@ -1,7 +1,7 @@
 # seuksak
 
-
-## 프로젝트 복사
+## Overview
+ Automated build and analysis tools for college students
 
 #### Repository 복사
 ```
